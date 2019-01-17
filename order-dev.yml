@@ -1,5 +1,0 @@
-#测试自定义配置文件取值
-my:
- name: testname
- age: 150
- number: 110

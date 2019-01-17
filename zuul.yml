@@ -1,0 +1,9 @@
+zuul:
+  routes:
+   user:
+    path: /user/**
+    serviceId: USERCONSUMER
+    sensitiveHeaders:
+   it:
+    path: /it/**
+    url: http://www.ityouknow.com
