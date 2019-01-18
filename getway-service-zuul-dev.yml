@@ -5,7 +5,7 @@ zuul:
     serviceId: USERCONSUMER
     sensitiveHeaders:
    it:
-    path: /it/**
+    path: /itt/**
     url: http://www.ityouknow.com
 
 # {ApplicationName}-{profile}.yml
