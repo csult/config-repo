@@ -8,4 +8,4 @@ zuul:
     path: /it/**
     url: http://www.ityouknow.com
 
-# {applicationName}-{profile}.yml
+# {ApplicationName}-{profile}.yml
