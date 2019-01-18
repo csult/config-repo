@@ -7,3 +7,4 @@ zuul:
    it:
     path: /it/**
     url: http://www.ityouknow.com
+#文件名为：{applicationName}-{profile}.yml
