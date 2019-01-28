@@ -8,6 +8,6 @@ zuul:
     path: /itt/**
     url: http://www.ityouknow.com
 qquser:
-  qqname: QQQQ1
+  qqname: QQQQ12
 # {ApplicationName}-{profile}.yml
 
