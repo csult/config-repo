@@ -7,6 +7,9 @@ zuul:
    it:
     path: /itt/**
     url: http://www.ityouknow.com
+   china:
+    path: /china/**
+    url: http://www.china.com 
 qquser:
   qqname: You test a file
 # {ApplicationName}-{profile}.yml
