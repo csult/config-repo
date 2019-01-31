@@ -6,11 +6,8 @@ zuul:
     sensitiveHeaders:
    it:
     path: /itt/**
-    url: http://www.ityouknow.com
-   china:
-    path: /china/**
-    url: http://www.china.com 
+    url: http://www.ityouknow.com   
 qquser:
-  qqname: You test a file
+  qqname: You test a file setup
 # {ApplicationName}-{profile}.yml
 
